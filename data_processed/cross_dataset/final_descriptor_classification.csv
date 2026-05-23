@@ -1,0 +1,10 @@
+descriptor,verdict,basis
+D1 mean drift,Stressor-/chemistry-specific,Opposite directional evolution and cancellation of SOC-local deformation.
+D2 SOC-local drift profile,Sign stressor-/chemistry-specific; shared low-SOC localization,"Dataset-averaged normalized profiles are anti-correlated (Pearson = -0.30, Spearman = -0.51), but both show important low-SOC deformation."
+D3a low-slope center,Inconclusive,Limited CALCE cold-side statistical power and threshold sensitivity.
+D3b low-slope width,Inconclusive,Adaptive percentile threshold makes width sensitive to descriptor definition.
+D3c low-slope shift,Inconclusive,"Oxford shows aging-related migration, but CALCE cold-side migration is weak."
+D4 slope amplification,Candidate portable geometric descriptor,Direction aligned across datasets; interpretation requires delta-sensitivity reporting.
+D5a peak |ΔU| SOC location,Partially aligned,"Directional behavior partly aligned, but absolute SOC regions are largely disjoint (IQR IoU = 0.016)."
+D5b signed peak amplitude,Stressor-/chemistry-specific,Signed peak amplitude has opposite sign across Oxford aging and CALCE cold-side response.
+D6 NDIR$_{RMS}$,Candidate portable geometric descriptor,Monotonic growth aligned across datasets; power-law growth rate remains condition-specific.

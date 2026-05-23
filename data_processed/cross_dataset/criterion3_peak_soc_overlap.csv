@@ -1,0 +1,2 @@
+oxford_median,oxford_iqr_lo,oxford_iqr_hi,calce_median,calce_iqr_lo,calce_iqr_hi,iqr_iou,verdict,n_oxford,n_calce_cold
+0.16,0.15000000000000002,0.16,0.405,0.09999999999999999,0.7175,0.016194331983805637,disjoint SOC regions,496,8
