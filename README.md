@@ -5,8 +5,8 @@ This repository contains processed descriptor tables, analysis notebooks, and fi
 "Candidate Portable Geometric Descriptors of Lithium-Ion OCV Deformation Across Aging- and Temperature-Resolved Battery Datasets"
 
 ## Data sources
-- Oxford Battery Degradation Dataset 1: DOI ...
-- CALCE A123 battery data: URL ...
+- Oxford Battery Degradation Dataset 1: [DOI ...](https://doi.org/10.5287/BODLEIAN:KO2KDMYGG)
+- CALCE A123 battery data: [URL ...](https://calce.umd.edu/battery-data)
 
 ## Reproducibility
 Run notebooks in order:
