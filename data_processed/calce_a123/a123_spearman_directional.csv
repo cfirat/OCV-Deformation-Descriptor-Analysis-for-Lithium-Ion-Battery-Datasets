@@ -1,0 +1,5 @@
+cell_id,side,n,ndi_range,rho_s,p_value,status
+A1-007,cold (T<25),4,1.635501009201356,1.0,0.0,monotonic
+A1-007,hot  (T>25),3,0.06829347528484961,-1.0,0.0,monotonic
+A1-008,cold (T<25),4,2.2331456216382444,1.0,0.0,monotonic
+A1-008,hot  (T>25),3,0.10432678481516289,-0.5,0.6666666666666667,inconclusive
